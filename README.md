@@ -66,6 +66,7 @@ streamlit run app.py
 ![Alt text](Outputs/output1.png)
 
 - Prediction Output:
+```
 Accuracy: 0.9777924250874613
 
 Confusion Matrix:
@@ -81,7 +82,7 @@ Classification Report:
     accuracy                           0.98     19723
    macro avg       0.96      0.81      0.87     19723
 weighted avg       0.98      0.98      0.98     19723
-
+```
 
 - Streamlit App:
 ![Alt text](Outputs/Streamlit_App.png)
