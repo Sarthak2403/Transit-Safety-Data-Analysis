@@ -31,8 +31,8 @@ transit-safety-analytics/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/transit-safety-analytics.git
-   cd transit-safety-analytics
+   gh repo clone Sarthak2403/Transit-Safety-Data-Analysis
+   cd Transit-Safety-Data-Analysis
 
 2. Create a virtual environment:
    ```bash
